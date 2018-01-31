@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>egolee</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.egolee.com/"/>
   <updated>2018-01-31T08:06:39.480Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.egolee.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>egolee</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/01/31/hello-world/"/>
-    <id>http://yoursite.com/2018/01/31/hello-world/</id>
+    <link href="http://www.egolee.com/2018/01/31/hello-world/"/>
+    <id>http://www.egolee.com/2018/01/31/hello-world/</id>
     <published>2018-01-31T08:06:39.479Z</published>
     <updated>2018-01-31T08:06:39.480Z</updated>
     

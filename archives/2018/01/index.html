@@ -13,20 +13,21 @@
   <!-- PACE Progress Bar START -->
 
   
-  <title>archiv: 2018/1 | Hexo</title>
+  <title>归档: 2018/1 | egolee</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   
   
   
   
   <meta property="og:type" content="website">
-<meta property="og:title" content="Hexo">
-<meta property="og:url" content="http://yoursite.com/archives/2018/01/index.html">
-<meta property="og:site_name" content="Hexo">
+<meta property="og:title" content="egolee">
+<meta property="og:url" content="http://www.egolee.com/archives/2018/01/index.html">
+<meta property="og:site_name" content="egolee">
+<meta property="og:locale" content="zh-CN">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Hexo">
+<meta name="twitter:title" content="egolee">
   
-    <link rel="alternate" href="/atom.xml" title="Hexo" type="application/atom+xml">
+    <link rel="alternate" href="/atom.xml" title="egolee" type="application/atom+xml">
   
   <link rel="icon" href="/css/images/favicon.ico">
   
@@ -69,15 +70,11 @@
 <script>
 var themeMenus = {};
 
-  themeMenus["/"] = "Home"; 
+  themeMenus["/"] = "首页"; 
 
-  themeMenus["/archives"] = "Archives"; 
+  themeMenus["/archives"] = "归档"; 
 
-  themeMenus["/categories"] = "Kategorien"; 
-
-  themeMenus["/tags"] = "Tags"; 
-
-  themeMenus["/about"] = "About"; 
+  themeMenus["/about"] = "关于我们"; 
 
 </script>
 
@@ -92,7 +89,7 @@ var themeMenus = {};
           <h1 class="site-title">
             
               <a href="/" rel="home" >
-                <img style="margin-bottom: 10px;"  width="124px" height="124px" alt="Hike News" src="https://hexo.io/logo.svg">
+                <img style="margin-bottom: 10px;"  width="215px" height="87px" alt="Hike News" src=" /css/images/logo.png">
               </a>
             
           </h1>
@@ -106,15 +103,11 @@ var themeMenus = {};
 
               <ul id="main-nav" class="nmenu sf-js-enabled">
                     
-                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/">Home</a> </li>
+                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/">首页</a> </li>
                     
-                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/archives">Archives</a> </li>
+                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/archives">归档</a> </li>
                     
-                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/categories">Kategorien</a> </li>
-                    
-                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/tags">Tags</a> </li>
-                    
-                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/about">About</a> </li>
+                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/about">关于我们</a> </li>
                     
               </ul>
             </div>
@@ -126,33 +119,6 @@ var themeMenus = {};
 </header>
 
 
-  <div id="originBgDiv" style="background: #fff; width: 100%;">
-
-      <div style="max-height:600px; overflow: hidden;  display: flex; display: -webkit-flex; align-items: center;">
-        <img id="originBg" width="100%" alt="" src="">
-      </div>
-
-  </div>
-
-  <script>
-  function setAboutIMG(){
-      var imgUrls = "css/images/pose.jpg,https://source.unsplash.com/collection/954550/1920x1080".split(",");
-      var random = Math.floor((Math.random() * imgUrls.length ));
-      if (imgUrls[random].startsWith('http') || imgUrls[random].indexOf('://') >= 0) {
-        document.getElementById("originBg").src=imgUrls[random];
-      } else {
-        document.getElementById("originBg").src='/' + imgUrls[random];
-      }
-  }
-  bgDiv=document.getElementById("originBgDiv");
-  if(location.pathname.match('about')){
-    setAboutIMG();
-    bgDiv.style.display='block';
-  }else{
-    bgDiv.style.display='none';
-  }
-  </script>
-
 
 
   <div id="container">
@@ -161,7 +127,7 @@ var themeMenus = {};
       <div id="content" class="outer">
         
           <section id="main">
-  <div class="archives-tags-wrap"><blockquote><span>There are 1 posts in total till now.</span></blockquote>
+  <div class="archives-tags-wrap"><blockquote><span>嗯，目前共计1篇文章</span></blockquote>
 
 
 
@@ -184,7 +150,7 @@ var themeMenus = {};
     <header class="archive-article-header">
 
       <a href="/2018/01/31/hello-world/" class="archive-article-date">
-		  <time datetime="2018-01-31T08:06:39.479Z" itemprop="datePublished">Jan 31, 2018</time>
+		  <time datetime="2018-01-31T08:06:39.479Z" itemprop="datePublished">1月 31, 2018</time>
 	  </a>
       
   
@@ -215,15 +181,15 @@ var themeMenus = {};
     <form class="search-form">
         <label style="width: 75%;">
             <span class="screen-reader-text">Search for:</span>
-            <input type="search" class="search-field" style="height: 42px;" placeholder=" Suche…" value="" name="s" title="Search for:">
+            <input type="search" class="search-field" style="height: 42px;" placeholder=" 搜索…" value="" name="s" title="Search for:">
         </label>
-        <input type="submit" class="search-form-submit" value="Suche">
+        <input type="submit" class="search-form-submit" value="搜索">
     </form>
     <div class="ins-search">
     <div class="ins-search-mask"></div>
     <div class="ins-search-container">
         <div class="ins-input-wrapper">
-            <input type="text" class="ins-search-input" placeholder="Type something..."/>
+            <input type="text" class="ins-search-input" placeholder="请输入关键词..."/>
             <span class="ins-close ins-selectable"><i class="fa fa-times-circle"></i></span>
         </div>
         <div class="ins-section-wrapper">
@@ -235,11 +201,11 @@ var themeMenus = {};
 (function (window) {
     var INSIGHT_CONFIG = {
         TRANSLATION: {
-            POSTS: 'Posts',
-            PAGES: 'Pages',
-            CATEGORIES: 'Categories',
-            TAGS: 'Tags',
-            UNTITLED: '(Untitled)',
+            POSTS: '文章',
+            PAGES: '页面',
+            CATEGORIES: '分类',
+            TAGS: '标签',
+            UNTITLED: '(无标题)',
         },
         ROOT_URL: '/',
         CONTENT_URL: '/content.json',
@@ -254,17 +220,17 @@ var themeMenus = {};
   
     
   <div class="widget-wrap">
-    <h3 class="widget-title">Connect With Us</h3>
+    <h3 class="widget-title">联系我们</h3>
     <div class="widget widget_athemes_social_icons">
 
     	<ul class="clearfix widget-social-icons">   
     	
           
-     			  <li><a href="https://github.com/iTimeTraveler" title="Github"><i class="fa fa-github" aria-hidden="true"></i></a></li> 
+     			  <li><a href="https://github.com/egolee" title="Github"><i class="fa fa-github" aria-hidden="true"></i></a></li> 
           
    		
           
-     			  <li><a href="http://www.yoursite.com" title="Weibo"><i class="fa fa-weibo" aria-hidden="true"></i></a></li> 
+     			  <li><a href="http://www.egolee.com" title="Weibo"><i class="fa fa-weibo" aria-hidden="true"></i></a></li> 
           
    		
           
@@ -316,7 +282,7 @@ var themeMenus = {};
     
   <div class="widget_athemes_tabs">
     <ul id="widget-tab" class="clearfix widget-tab-nav">
-      <li class="active"><a>letzter Beitrag</a></li>
+      <li class="active"><a>最新文章</a></li>
     </ul>
     <div class="widget">
       <ul>
@@ -328,7 +294,7 @@ var themeMenus = {};
             
 
               <h6 style="margin: 0;"><a href="/2018/01/31/hello-world/">Hello World</a></h6>
-              <span>January 31, 2018</span>
+              <span>一月 31, 2018</span>
             </div>
 
           </li>
@@ -348,10 +314,10 @@ var themeMenus = {};
   
     
   <div class="widget-wrap">
-    <h3 class="widget-title">Archiv</h3>
+    <h3 class="widget-title">归档</h3>
 
     <div class="widget">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/01/">January 2018</a><span class="archive-list-count">1</span></li></ul>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/01/">一月 2018</a><span class="archive-list-count">1</span></li></ul>
     </div>
   </div>
 
@@ -365,7 +331,7 @@ var themeMenus = {};
 
   <div class="clearfix container">
       <div class="site-info">
-	      &copy; 2018 Hexo All Rights Reserved.
+	      &copy; 2018 egolee All Rights Reserved.
           
             <span id="busuanzi_container_site_uv">
               本站访客数<span id="busuanzi_value_site_uv"></span>人次  
@@ -393,15 +359,11 @@ var themeMenus = {};
     </div>
     <!-- <nav id="mobile-nav">
   
-    <a href="/" class="mobile-nav-link">Home</a>
+    <a href="/" class="mobile-nav-link">首页</a>
   
-    <a href="/archives" class="mobile-nav-link">Archives</a>
+    <a href="/archives" class="mobile-nav-link">归档</a>
   
-    <a href="/categories" class="mobile-nav-link">Categories</a>
-  
-    <a href="/tags" class="mobile-nav-link">Tags</a>
-  
-    <a href="/about" class="mobile-nav-link">About</a>
+    <a href="/about" class="mobile-nav-link">关于我们</a>
   
 </nav> -->
     
