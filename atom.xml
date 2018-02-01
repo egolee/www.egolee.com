@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.egolee.com/"/>
-  <updated>2018-01-31T08:06:39.480Z</updated>
+  <updated>2018-02-01T13:12:49.971Z</updated>
   <id>http://www.egolee.com/</id>
   
   <author>
@@ -17,22 +17,61 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://www.egolee.com/2018/01/31/hello-world/"/>
-    <id>http://www.egolee.com/2018/01/31/hello-world/</id>
-    <published>2018-01-31T08:06:39.479Z</published>
-    <updated>2018-01-31T08:06:39.480Z</updated>
+    <title>森萨帕特Sensopart</title>
+    <link href="http://www.egolee.com/2018/02/01/%E6%A3%AE%E8%90%A8%E5%B8%95%E7%89%B9Sensopart/"/>
+    <id>http://www.egolee.com/2018/02/01/森萨帕特Sensopart/</id>
+    <published>2018-02-01T12:42:18.000Z</published>
+    <updated>2018-02-01T13:12:49.971Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/uploads/sensopart.jpg" style="max-width:100%" alt="森萨帕特Sensopart" align="center"><br><a id="more"></a><br><code>VISOR® 系列视觉传感器</code>  </p><h3 id="视觉传感器及系统"><a href="#视觉传感器及系统" class="headerlink" title="视觉传感器及系统"></a>视觉传感器及系统</h3><p>在标准传感器技术上，长期积累的经验结合更先进的的图像处理技术，使SensoPart（森萨帕特）智能相机FA46和VISOR® V10为工业自动化提供了全新的解决方案。<br>无需图像处理知识，工业用户也能快速、便捷的解决艰巨的任务。</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
+      &lt;p&gt;&lt;img src=&quot;/uploads/sensopart.jpg&quot; style=&quot;max-width:100%&quot; alt=&quot;森萨帕特Sensopart&quot; align=&quot;center&quot;&gt;&lt;br&gt;
     
     </summary>
+    
+      <category term="森萨帕特Sensopart" scheme="http://www.egolee.com/categories/%E6%A3%AE%E8%90%A8%E5%B8%95%E7%89%B9Sensopart/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>威卡WIKA</title>
+    <link href="http://www.egolee.com/2018/01/15/%E5%A8%81%E5%8D%A1WIKA/"/>
+    <id>http://www.egolee.com/2018/01/15/威卡WIKA/</id>
+    <published>2018-01-15T12:53:04.000Z</published>
+    <updated>2018-02-01T13:13:07.725Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/uploads/wika.jpg" style="max-width:100%" alt="威卡WIKA" align="center"><br><a id="more"></a><br><code>威卡的测量类产品广泛应用于流程工业领域。</code><br>德国威卡WIKA提供的产品主要包括:机械压力表、电子压力变送器、电接点压力表、隔膜密封、SF6气体密度计、校验设备、机械温度计、电子温度测量及保护套管等。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/uploads/wika.jpg&quot; style=&quot;max-width:100%&quot; alt=&quot;威卡WIKA&quot; align=&quot;center&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="威卡WIKA" scheme="http://www.egolee.com/categories/%E5%A8%81%E5%8D%A1WIKA/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日阪热交换器</title>
+    <link href="http://www.egolee.com/2018/01/01/%E6%97%A5%E9%98%AA%E7%83%AD%E4%BA%A4%E6%8D%A2%E5%99%A8/"/>
+    <id>http://www.egolee.com/2018/01/01/日阪热交换器/</id>
+    <published>2018-01-01T12:55:30.000Z</published>
+    <updated>2018-02-01T13:12:57.555Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/uploads/jhj.jpg" style="max-width:100%" alt="森萨帕特Sensopart" align="center"><br><a id="more"></a><br><code>日阪钎焊板式热交换器</code><br>日阪钎焊板式热交换器继承了以往的密封圈型板式热交换器的高经济性与高性能，融合了日阪的钎焊技术，进一步实现了轻量、小巧、牢固、廉价等性能特征。因此，即使是氨与氟等有法律限制要求的流体也可使用。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/uploads/jhj.jpg&quot; style=&quot;max-width:100%&quot; alt=&quot;森萨帕特Sensopart&quot; align=&quot;center&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="日阪热交换器" scheme="http://www.egolee.com/categories/%E6%97%A5%E9%98%AA%E7%83%AD%E4%BA%A4%E6%8D%A2%E5%99%A8/"/>
     
     
   </entry>

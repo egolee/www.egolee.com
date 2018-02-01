@@ -140,8 +140,8 @@ input[type="submit"] {
 	font-family: "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
 	line-height: 30px;
 	text-transform: uppercase;
-	background: #060608;
-	border: 1px solid #060608;
+	background: #112D5D;
+	border: 1px solid #112D5D;
 	}
 button:hover,
 a.button:hover,
@@ -254,7 +254,8 @@ object {
 ----------------------------------------------- */
 .site-header {
 	padding: 20px 0 0;
-	background: #16171b;
+	color: #fff;
+	background: #112D5D;
 	}
 .site-branding {
 	float: left;
@@ -265,6 +266,7 @@ object {
 	font-family: "Yanone Kaffeesatz", "Microsoft YaHei Light", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	line-height: 1;
+	float: left;
 	}
 .site-title a {
 	color: #fff;
@@ -326,11 +328,12 @@ object {
 	}
 
 #main-navigation {
-	clear: both;
-	padding: 20px 0 0;
+	/* clear: both; */
+	float:left;
+	padding: 50px 0 0 20px;
 	}
 #main-navigation .sf-menu {
-	background: #060608;
+	background: #112D5D;
 	}
 #main-navigation .sf-menu > ul > li:after {
 	width: 1px;
@@ -1141,7 +1144,7 @@ body.search .page .entry-footer {
 	padding: 18px 0;
 	color: #999;
 	font-size: .9em;
-	background: #16171b;
+	background: #112D5D;
 	}
 .site-footer a {
 	color: #fff;
