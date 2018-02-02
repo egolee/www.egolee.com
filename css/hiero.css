@@ -332,8 +332,9 @@ object {
 #main-navigation {
 	/* clear: both; */
 	float:left; 
-	padding: 50px 0 0 10px;
-    min-width: 80px;
+	padding-left: 10px;
+	min-width: 70px;
+	margin-top: 49px;
 	}
 #main-navigation .sf-menu {
 	background: #112D5D;
