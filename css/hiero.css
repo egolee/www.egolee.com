@@ -259,7 +259,7 @@ object {
 	}
 .site-branding {
 	float: left;
-	width: 94%;
+	width: 98%;
 	}
 .site-title {
 	margin: 0;
@@ -333,7 +333,7 @@ object {
 	/* clear: both; */
 	float:left; 
 	padding-left: 10px;
-	min-width: 70px;
+	min-width: 60px;
 	margin-top: 49px;
 	}
 #main-navigation .sf-menu {
@@ -1194,7 +1194,7 @@ body.search .page .entry-footer {
 		/* float: none; */
 		float: left;
 		text-align: center;
-		width: 94%;
+		width: 98%;
 		}
 	.content-area {
 		float: none;
