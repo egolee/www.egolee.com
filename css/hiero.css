@@ -259,6 +259,7 @@ object {
 	}
 .site-branding {
 	float: left;
+	width: 94%;
 	}
 .site-title {
 	margin: 0;
@@ -285,6 +286,7 @@ object {
 	margin: 0;
 	padding: 0;
 	list-style: none;
+	min-width:80px;
 	}
 .sf-menu li ul {
 	top: -999em;
@@ -329,8 +331,9 @@ object {
 
 #main-navigation {
 	/* clear: both; */
-	float:left;
-	padding: 50px 0 0 20px;
+	float:left; 
+	padding: 50px 0 0 10px;
+    min-width: 80px;
 	}
 #main-navigation .sf-menu {
 	background: #112D5D;
@@ -417,7 +420,8 @@ object {
 	text-transform: uppercase;
 	line-height: 50px;
 	letter-spacing: 1px;
-	background: #060608;
+	background: #eff2ff;
+    padding: 0 3px;
 	}
 @media only screen and (max-width: 60em) {
 	.nav-open {
@@ -1186,8 +1190,10 @@ body.search .page .entry-footer {
 		display: none;
 		}
 	.site-header .site-branding {
-		float: none;
+		/* float: none; */
+		float: left;
 		text-align: center;
+		width: 94%;
 		}
 	.content-area {
 		float: none;
